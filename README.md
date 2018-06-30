@@ -15,3 +15,6 @@ Git tracks changes  of files  哦啊实打实.
 ```
 Creating a new branch is quick.
 ```
+```
+Creating a new branch is quick & simple.
+```
